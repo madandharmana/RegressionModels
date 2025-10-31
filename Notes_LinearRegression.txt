@@ -1,0 +1,26 @@
+
+
+Useful links with Linear Regression Case study:
+1) https://github.com/HechtYehuda/Bootcamp/blob/master/Springboard%20Regression%20Case%20Study%2C%20Unit%208%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203%20(1).ipynb
+<<Above Link has other modeling case studies too>>
+
+2) https://tilburgsciencehub.com/topics/analyze/machine-learning/supervised/ml_regression_python/  [Melbourne Housing data]
+
+3) Good example for checking Linear Regression assumptions in Python:
+https://www.kaggle.com/code/shrutimechlearn/step-by-step-assumptions-linear-regression
+
+4) Linear Regression in Python - Boston housing price dataset:
+https://www.kaggle.com/code/sarbjit87/linear-regression-tutorial-with-example
+
+5) Stepwise Linear Regression in Python:
+https://medium.com/@kelvinsang97/feature-selection-stepwise-regression-forward-selection-and-backward-elimination-with-python-d53230be995c
+
+6) XGBoost Regression:
+https://www.geeksforgeeks.org/machine-learning/xgboost-for-regression/
+https://www.kaggle.com/code/carlmcbrideellis/an-introduction-to-xgboost-regression
+
+7) Random Forest Regression:
+https://www.geeksforgeeks.org/machine-learning/random-forest-regression-in-python/
+
+8) Random Forest Regression with Grid Search:
+https://towardsdatascience.com/random-forest-regression-5f605132d19d/
